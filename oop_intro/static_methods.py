@@ -58,7 +58,7 @@
 
 
 
-################################## Static Methods ##################################
+################################## protected method vs private method ##################################
 class BankAccount:
     MIN_BALANCE = 100  # Class/static attribute, minimum balance requirement
 
